@@ -1,0 +1,51 @@
+body{
+    background-color: antiquewhite;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+H1
+{
+    text-align: center;
+    color: brown;
+    background-color: blueviolet;
+    
+}
+
+.title-name{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: larger;
+
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: larger;
+    color: brown;
+}
+.title-skills{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+}
+.title-interest{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+}
+.title-object {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    font-size: larger;
+}
+td,th{
+    border:2px solid brown;
+}
+.title-pro{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    font-size: larger;
+}
+
+.title-skill{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    font-size: larger;
+}
